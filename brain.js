@@ -2,7 +2,7 @@
   const options = {
 
     detectRetina: true,
-    fpsLimit: 120,
+    fpsLimit: 60,
     pauseOnOutsideViewport: true,
     interactivity: {
       detectsOn: "canvas",
